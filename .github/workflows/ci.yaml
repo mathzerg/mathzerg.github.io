@@ -15,7 +15,7 @@ jobs:
       - name: chmodbuild
         run: chmod +x script/bootstrap
       - name: chmodtest
-        run: chmod +x script/cibuild
+        run: chmod +x script
       - name: build
         run: script/bootstrap
       - name: test
