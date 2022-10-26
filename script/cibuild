@@ -3,13 +3,8 @@
 set -e
 
 bundle exec jekyll build
-echo "build"
-
+find ./_site -type f -printf "%f\n"
 bundle exec htmlproofer ./_site --check-html --check-sri
-echo "proof"
-
 bundle exec rubocop -D --config .rubocop.yml
-echo "rubocop"
 bundle exec script/validate-html
-echo "validate-html"
 gem build jekyll-theme-minimal.gemspec
