@@ -12,9 +12,7 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: chmodbuild
-        run: chmod +x script/bootstrap
-      - name: chmodtest
+      - name: chmod
         run: chmod -R +x script/
       - name: build
         run: script/bootstrap
