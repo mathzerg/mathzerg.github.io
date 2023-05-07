@@ -7,7 +7,7 @@ layout: default
 
 - Yin Tian and Tianyu Yuan. ["An example of higher-dimensional Heegaard Floer homology."](https://arxiv.org/abs/2212.10187) _arXiv preprint_ (2022). 
 
-- Ko Honda, Yin Tian, and Tianyu Yuan. ["Higher-dimensional Heegaard Floer homology and Hecke algebras."](https://arxiv.org/abs/2202.05593) _arXiv preprint_ (2022). 
+- Ko Honda, Yin Tian, and Tianyu Yuan. ["Higher-dimensional Heegaard Floer homology and Hecke algebras."](https://arxiv.org/abs/2202.05593) _arXiv preprint_ (2022), to appear in J. Eur. Math. Soc.
 
 - T. Yuan and G. Tanaka: ["Robustness of coupled oscillator networks with heterogeneous natural frequencies."](https://aip.scitation.org/doi/abs/10.1063/1.4991742) Chaos, 27, 123105 (2017)
 
