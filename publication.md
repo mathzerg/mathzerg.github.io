@@ -5,11 +5,11 @@ layout: default
 
 # Publications
 
-- Tianyu Yuan. "The finite Hecke algebra from Morse theory" (in preparation).
-
 - Ko Honda, Yin Tian, and Tianyu Yuan. "A Morse $A_\infty$-model for the higher-dimensional Heegaard Floer homology of cotangent fibers" (in preparation).
 
 - Roman Krutowski and Tianyu Yuan. "Heegaard Floer Symplectic homology" (in preparation).
+
+- Tianyu Yuan. ["Folded Morse flow trees."](https://arxiv.org/abs/2309.05976) _arXiv preprint_ (2023).
 
 - Yin Tian and Tianyu Yuan. ["An example of higher-dimensional Heegaard Floer homology."](https://arxiv.org/abs/2212.10187) _arXiv preprint_ (2022). 
 
