@@ -9,6 +9,8 @@ layout: page
 
 - Roman Krutowski and Tianyu Yuan. "Heegaard Floer Symplectic homology" (in preparation).
 
+- Tianyu Yuan. ["A link invariant from higher-dimensional Heegaard Floer homology."](https://arxiv.org/abs/2309.13241) _arXiv preprint_ (2023).
+
 - Tianyu Yuan. ["Folded Morse flow trees."](https://arxiv.org/abs/2309.05976) _arXiv preprint_ (2023).
 
 - Yin Tian and Tianyu Yuan. ["An example of higher-dimensional Heegaard Floer homology."](https://arxiv.org/abs/2212.10187) _arXiv preprint_ (2022). 
