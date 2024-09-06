@@ -19,7 +19,7 @@ bibliography_list_attributes:
 
 1. (with Yin Tian) [An example of higher-dimensional Heegaard Floer homology](https://arxiv.org/abs/2212.10187), to appear in Algebr. Geom. Topol. (2023)
 
-1. (with Ko Honda and Yin Tian) [Higher-dimensional Heegaard Floer homology and Hecke algebras](https://arxiv.org/abs/2202.05593), to appear in J. Eur. Math. Soc. (2023)
+1. (with Ko Honda and Yin Tian) [Higher-dimensional Heegaard Floer homology and Hecke algebras](https://arxiv.org/abs/2202.05593), J. Eur. Math. Soc. (2024)
 
 1. T. Yuan and G. Tanaka, [Robustness of coupled oscillator networks with heterogeneous natural frequencies](https://aip.scitation.org/doi/abs/10.1063/1.4991742), Chaos, 27, 123105 (2017)
 
