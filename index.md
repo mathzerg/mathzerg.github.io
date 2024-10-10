@@ -3,8 +3,8 @@ layout: page
 ---
 
 
-I am currently a postdoc at Beijing International Center for Mathematical Research (BICMR). My interests are low-dimensional topology and mathematical physics.
+I have moved to Eastern Institute of Technology at Ningbo. My interests are still low-dimensional topology and mathematical physics.
 
-Obviously, this website is under construction.
+Obviously, I am too lazy and this website is always under construction.
 
 

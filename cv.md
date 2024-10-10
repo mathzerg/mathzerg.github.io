@@ -6,7 +6,8 @@ layout: page
 
 
 ## Work experience
-- 2022-now: Postdoc, BICMR, Peking University
+- 2024-now: Assistant Professor, Eastern Institute of Technology, Ningbo
+- 2022-2024: Postdoc, BICMR, Peking University
 
 ## Education
 - 2017-2021:   PhD student, Teaching Assistant, Department of Mathematics, UCLA
