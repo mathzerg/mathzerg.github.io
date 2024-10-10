@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: "/publication/"
+title: "Research"
+permalink: "/research/"
 layout: page
 bibliography_list_attributes:
     reversed: "reversed"
@@ -11,13 +11,19 @@ bibliography_list_attributes:
 
 1. (with Ko Honda, Roman Krutowski and Yin Tian) A Morse $A_\infty$-model for the higher-dimensional Heegaard Floer homology of cotangent fibers (in preparation). -->
 
-1. (with Roman Krutowski) [Heegaard Floer Symplectic homology and Viterbo's isomorphism theorem in the context of multiple particles](https://arxiv.org/abs/2311.17031), _arXiv preprint_ (2023).
+Preprints
 
-1. [A link invariant from higher-dimensional Heegaard Floer homology](https://arxiv.org/abs/2309.13241), _arXiv preprint_ (2023).
+1. (with Roman Krutowski) [Heegaard Floer Symplectic homology and Viterbo's isomorphism theorem in the context of multiple particles](https://arxiv.org/abs/2311.17031), _arXiv preprint_ (2023).
 
 1. [Folded Morse flow trees](https://arxiv.org/abs/2309.05976), _arXiv preprint_ (2023).
 
-1. (with Yin Tian) [An example of higher-dimensional Heegaard Floer homology](https://arxiv.org/abs/2212.10187), to appear in Algebr. Geom. Topol. (2023)
+
+Publications
+
+1. [A link invariant from higher-dimensional Heegaard Floer homology](https://arxiv.org/abs/2309.13241), to appear in J. Symplectic Geom.
+
+
+1. (with Yin Tian) [An example of higher-dimensional Heegaard Floer homology](https://arxiv.org/abs/2212.10187), to appear in Algebr. Geom. Topol.
 
 1. (with Ko Honda and Yin Tian) [Higher-dimensional Heegaard Floer homology and Hecke algebras](https://arxiv.org/abs/2202.05593), J. Eur. Math. Soc. (2024)
 
