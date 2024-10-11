@@ -20,7 +20,7 @@ Preprints
 
 Publications
 
-1. [A link invariant from higher-dimensional Heegaard Floer homology](https://arxiv.org/abs/2309.13241), to appear in J. Symplectic Geom.
+1. [A link invariant from higher-dimensional Heegaard Floer homology](https://arxiv.org/abs/2309.13241), to appear in J. Sympl. Geom.
 
 
 1. (with Yin Tian) [An example of higher-dimensional Heegaard Floer homology](https://arxiv.org/abs/2212.10187), to appear in Algebr. Geom. Topol.
