@@ -8,10 +8,12 @@ bibliography_list_attributes:
 ---
 
 <!-- 1. (with Eilon Reisin-Tzur and Yin Tian) Higher-dimensional Heegaard Floer homology and the polynomial representation of double affine Hecke algebra (in preparation).
+-->
 
-1. (with Ko Honda, Roman Krutowski and Yin Tian) A Morse $A_\infty$-model for the higher-dimensional Heegaard Floer homology of cotangent fibers (in preparation). -->
 
 Preprints
+
+1. (with Ko Honda, Roman Krutowski and Yin Tian) [Morse theory of loop spaces and Hecke algebras](https://arxiv.org/abs/2503.07543), _arXiv preprint_ (2025).
 
 1. (with Roman Krutowski) [Heegaard Floer Symplectic homology and Viterbo's isomorphism theorem in the context of multiple particles](https://arxiv.org/abs/2311.17031), _arXiv preprint_ (2023).
 
