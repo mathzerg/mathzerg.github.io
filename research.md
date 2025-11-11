@@ -13,6 +13,8 @@ bibliography_list_attributes:
 
 Preprints
 
+1. (with Yuan Gao, Eilon Reisin-Tzur and Yin Tian) [Higher-dimensional Heegaard Floer homology and the polynomial representation of double affine Hecke algebras](https://arxiv.org/abs/2511.06436), _arXiv preprint_ (2025).
+
 1. (with Ko Honda, Roman Krutowski and Yin Tian) [Morse theory of loop spaces and Hecke algebras](https://arxiv.org/abs/2503.07543), _arXiv preprint_ (2025).
 
 1. (with Roman Krutowski) [Heegaard Floer Symplectic homology and Viterbo's isomorphism theorem in the context of multiple particles](https://arxiv.org/abs/2311.17031), _arXiv preprint_ (2023).
