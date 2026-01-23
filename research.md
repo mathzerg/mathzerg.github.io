@@ -13,6 +13,8 @@ bibliography_list_attributes:
 
 Preprints
 
+1. (with Ko Honda and Yin Tian) [Higher-dimensional Heegaard Floer homology and spectral networks](https://arxiv.org/abs/2601.15923), _arXiv preprint_ (2026).
+
 1. (with Yuan Gao, Eilon Reisin-Tzur and Yin Tian) [Higher-dimensional Heegaard Floer homology and the polynomial representation of double affine Hecke algebras](https://arxiv.org/abs/2511.06436), _arXiv preprint_ (2025).
 
 1. (with Ko Honda, Roman Krutowski and Yin Tian) [Morse theory of loop spaces and Hecke algebras](https://arxiv.org/abs/2503.07543), _arXiv preprint_ (2025).
