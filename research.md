@@ -13,6 +13,12 @@ bibliography_list_attributes:
 
 Preprints
 
+1. (with Yuan Gao) [Log-concavity of flat arrangement polynomials](https://arxiv.org/abs/2609.33651), _arXiv preprint_ (2026).
+
+1. (with Zhiyun Cheng and Yin Tian) [A polynomial invariant of planar curves](https://arxiv.org/abs/2609.23638), _arXiv preprint_ (2026).
+
+1. (with Yuan Gao) [Trapezoidality of flat arrangement polynomials](https://arxiv.org/abs/2608.21855), _arXiv preprint_ (2026).
+
 1. (with Ko Honda, Roman Krutowski and Yin Tian) [Obstructions to smoothing orbicurves and orbifold Hecke algebras](https://arxiv.org/abs/2607.11572), _arXiv preprint_ (2026)
 
 1. (with Ko Honda and Yin Tian) [Higher-dimensional Heegaard Floer homology and spectral networks](https://arxiv.org/abs/2601.15923), _arXiv preprint_ (2026).
